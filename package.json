@@ -3,8 +3,8 @@
   "version": "1.2.0",
   "license": "MIT",
   "description": "Test accessibility with axe-core in Cypress",
-  "homepage": "https://github.com/component-driven/cypress-axe",
-  "repository": "component-driven/cypress-axe",
+  "homepage": "https://github.com/CaiqueCoelho/cypress-axe",
+  "repository": "https://github.com/CaiqueCoelho/cypress-axe",
   "files": [
     "dist"
   ],
@@ -30,7 +30,7 @@
   "dependencies": {},
   "peerDependencies": {
     "axe-core": "^3 || ^4",
-    "cypress": "^10 || ^11 || ^12 || ^13"
+    "cypress": "^10 || ^11 || ^12 || ^13 || ^14"
   },
   "devDependencies": {
     "@types/node": "^14.14.8",
