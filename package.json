@@ -1,5 +1,5 @@
 {
-  "name": "cypress-axe",
+  "name": "cypress-axe-v14",
   "version": "1.2.0",
   "license": "MIT",
   "description": "Test accessibility with axe-core in Cypress",
